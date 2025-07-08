@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aravind1297. I pursued Electronics and communications Engineering from Anna University, TamilNadu, India. And I'm a fresher (Open to work) 
+- 👋 Hi, I’m @Aravind1297. I pursued Electronics and communications Engineering from Anna University, TamilNadu, India. I have 3+ years of experience in IT.
 - 👀 I’m interested in building softwares and designing simple circuits. Yes, I am working hard and learning everyday to become a software Engineer.
 - 🌱 I’m currently learning Java, React and Machine Learning concepts.
 - 💞️ I’m looking to collaborate on any interesting projects including Web development, Machine Learning, Deep Learning, Computer vision etc.
